@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Manushree Sannathimmappa
-description: "Hello! I'm Manushree, and I'm a Data Scientist. My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hello! I'm Manushree, and I'm a Data Scientist. My portfolio focuses on projects that I've worked on, with a strong emphasis on business impact."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
