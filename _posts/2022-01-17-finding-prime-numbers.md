@@ -19,7 +19,7 @@ First let's start by setting up a variable that will act as the upper limit of n
 n = 20
 ```
 
-The smallest true Prime number is 2, so we want to start by creating a list of numbers than need checking so every integer between 2 and what we set above as the upper bound which in this case was 20. We use n+1 as the range logic is not inclusive of the upper limit we set there
+The smallest true Prime number is 2, so we want to start by creating a list of numbers that need checking so every integer between 2 and what we set above as the upper bound which in this case was 20. We use n+1 as the range logic is not inclusive of the upper limit we set there
 
 Instead of using a list, we're going to use a set.  The reason for this is that sets have some special functions that will allow us to eliminate non-primes during our search.  You'll see what I mean soon...
 
