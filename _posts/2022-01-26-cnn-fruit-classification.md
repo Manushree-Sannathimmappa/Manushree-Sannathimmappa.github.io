@@ -474,7 +474,7 @@ print(test_set_accuracy)
 
 ```
 <br>
-Our baseline network achieves a **75% Classification Accuracy** on the Test Set.  It will be interesting to see how much improvement we can this with additions & refinements to our network.
+Our baseline network achieves a **75% Classification Accuracy** on the Test Set.  It will be interesting to see how much improvement we can do with additions & refinements to our network.
 
 <br>
 #### Test Set Confusion Matrix
